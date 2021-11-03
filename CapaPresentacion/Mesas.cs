@@ -68,10 +68,6 @@ namespace CapaPresentacion
         }
 
 
-
-
-
-
         private void agregarMesaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Button btn_mesa = new Button();
