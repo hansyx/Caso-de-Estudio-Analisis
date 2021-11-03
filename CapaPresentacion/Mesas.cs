@@ -94,7 +94,7 @@ namespace CapaPresentacion
             btn_mesa.Size = btn_mesa1.Size;
             int num = lista_mesas.Count() + 1;
             btn_mesa.TabIndex = num;
-            btn_mesa.Text = "Mesa " + num;
+            btn_mesa.Text = "Espacio " + num;
             lista_mesas.Add(btn_mesa);
         }
 
