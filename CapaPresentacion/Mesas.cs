@@ -104,6 +104,7 @@ namespace CapaPresentacion
             Presentacion presentacion = new Presentacion();
             presentacion.Show();
             this.Close();
+            Dispose();
         }
 
         
