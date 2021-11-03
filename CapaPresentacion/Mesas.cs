@@ -64,7 +64,7 @@ namespace CapaPresentacion
 
         private void btnMesa1_MouseUp(object sender, MouseEventArgs e)
         {
-            botonPresionado = false;
+            botonPresionado = true;
         }
 
 
